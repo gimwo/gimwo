@@ -11,6 +11,8 @@ I like to code and let's hope AI doesn't take that from me.
     - Node.js
 - Python
 
+🌴
+
 <!--
 **gimwo/gimwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
