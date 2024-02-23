@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- I'm a full-stack dev from the Philippines
+## Current Tech Stack:
+- Dart
+- JavaScript
+- Python
+
 <!--
 **gimwo/gimwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
