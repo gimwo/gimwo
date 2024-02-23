@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Miguel, a mobile and web dev.
+
+
 
 ## Tech Stack:
 - Dart
     - Flutter
 - JavaScript
+    - MongoDB
+    - Express.js
+    - React.js
+    - Node.js
 - Python
 
 <!--
