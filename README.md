@@ -1,11 +1,13 @@
-Hi, I'm Miguel. I can develop both mobile and web apps.<br>
-
+I'm Miguel. I develop both mobile and web apps.<br>
+<hr>
 <b>About me:</b><br>
 I like to code and let's hope AI doesn't take that from me. 👨‍💻<br>
 I'm a self-taught developer from the Philippines ⌨️<br> 
+I like video games 🎮<br>
 I like tinkering with computers 🪛<br> 
 I'm proud owner of a Yorkshire Terrier 🐕‍🦺<br>
 I also like sushi 🍣
+<hr>
 
 ## Tech Stack:
 - Dart
@@ -17,7 +19,6 @@ I also like sushi 🍣
     - Node.js
 - Python
 
-🌴
 
 <!--
 **gimwo/gimwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
