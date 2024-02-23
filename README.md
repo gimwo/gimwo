@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-## Current Tech Stack:
+## Tech Stack:
 - Dart
+    - Flutter
 - JavaScript
 - Python
 
