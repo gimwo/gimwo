@@ -19,7 +19,7 @@ I also like sushi 🍣
     - Node.js
 - Python
 
-
+<i>Most of my work files are private. 🥷</i>
 <!--
 **gimwo/gimwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
