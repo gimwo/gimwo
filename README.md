@@ -1,5 +1,9 @@
-Hi, I'm Miguel. I can develop both mobile and web apps.
-I like to code and let's hope AI doesn't take that from me.
+Hi, I'm Miguel. I can develop both mobile and web apps.<br>
+
+I like to code and let's hope AI doesn't take that from me.<br>
+I'm a self-taught developer from the Philippines<br>
+I like tinkering with computers<br>
+I also like sushi 🍣
 
 ## Tech Stack:
 - Dart
