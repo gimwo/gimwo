@@ -1,5 +1,5 @@
-Hi, I'm Miguel. I can develop both mobile and web apps. 📱💻
-I like to code and I hope AI doesn't take that from me pls.
+Hi, I'm Miguel. I can develop both mobile and web apps.
+I like to code and let's hope AI doesn't take that from me.
 
 ## Tech Stack:
 - Dart
