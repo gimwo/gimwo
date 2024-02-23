@@ -1,5 +1,6 @@
 Hi, I'm Miguel. I can develop both mobile and web apps.<br>
 
+<b>About me</b>
 I like to code and let's hope AI doesn't take that from me.<br>
 I'm a self-taught developer from the Philippines<br>
 I like tinkering with computers<br>
