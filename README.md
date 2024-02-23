@@ -1,5 +1,6 @@
 ### Hi
 
+I'm a full-stack dev from the Philippines
 <!--
 **gimwo/gimwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
