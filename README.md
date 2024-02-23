@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Miguel, a mobile and web dev.
+### Hi, I'm Miguel. I can develop both mobile and web apps. 📱💻
 
 
 
