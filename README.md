@@ -1,7 +1,7 @@
 I'm Miguel. I develop both mobile and web apps.<br>
 <hr>
 <b>About me:</b><br>
-I like to code and let's hope AI doesn't take that from me. 👨‍💻<br>
+I like to code. 👨‍💻<br>
 I'm a self-taught developer from the Philippines ⌨️<br> 
 I like video games 🎮<br>
 I like tinkering with computers 🪛<br> 
