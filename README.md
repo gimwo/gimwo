@@ -18,6 +18,7 @@ I also like sushi 🍣
     - React.js
     - Node.js
 - Python
+- Firebase
 
 <i>Most of my work files are private. 🥷</i>
 <!--
