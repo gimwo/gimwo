@@ -18,6 +18,9 @@ I also like sushi 🍣
     - React.js
     - Node.js
 - Python
+    - pandas
+    - Tkinter
+    - Selenium
 - Firebase
 
 <i>Most of my work files are private. 🥷</i>
