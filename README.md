@@ -9,6 +9,8 @@ I'm proud owner of a Yorkshire Terrier 🐕‍🦺<br>
 I also like sushi 🍣
 <hr>
 
+Currently in vacation 🏝️
+
 ## Tech Stack:
 - Dart
     - Flutter
