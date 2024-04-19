@@ -1,6 +1,6 @@
 I'm Miguel. I develop both mobile and web apps.<br>
 <hr>
-    <hr>
+
 <b>About me:</b><br>
 I like to code. 👨‍💻<br>
 I'm a self-taught developer from the Philippines ⌨️<br> 
