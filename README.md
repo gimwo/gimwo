@@ -25,6 +25,10 @@ I also like sushi 🍣
     - Selenium
 - Firebase
 
+Languages I wish to learn this year:
+- C#
+- C++
+
 <i>Most of my work files are private. 🥷</i>
 <!--
 **gimwo/gimwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
