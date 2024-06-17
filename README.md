@@ -25,10 +25,12 @@ I also like sushi 🍣
     - Selenium
 - Firebase
 
-Languages I wish to learn this year:
+What I want to learn this year:
 - C#
 - C++
 - Python (Fast API)
+- Next.JS
+- Electron.JS
 
 <i>Most of my work files are private. 🥷</i>
 <!--
