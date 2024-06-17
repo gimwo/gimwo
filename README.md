@@ -28,6 +28,7 @@ I also like sushi 🍣
 Languages I wish to learn this year:
 - C#
 - C++
+- Python again
 
 <i>Most of my work files are private. 🥷</i>
 <!--
