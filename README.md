@@ -31,6 +31,7 @@ What I want to learn this year:
 - Python (Fast API)
 - Next.JS
 - Electron.JS
+- Java
 
 <i>Most of my work files are private. 🥷</i>
 <!--
