@@ -28,7 +28,7 @@ I also like sushi 🍣
 What I want to learn this year:
 - C#
 - C++
-- Python (Fast API)
+- Python (FastAPI)
 - Next.JS
 - Electron.JS
 - Java
