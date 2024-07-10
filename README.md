@@ -27,7 +27,6 @@ I also like sushi 🍣
 
 What I want to learn this year:
 - C#
-- Python (Django)
 - Python (FastAPI)
 - Next.JS
 - Electron.JS
