@@ -26,6 +26,7 @@ I also like sushi 🍣
 - Firebase
 
 What I want to learn this year:
+- Swift
 - C#
 - Python (FastAPI)
 - Next.JS
