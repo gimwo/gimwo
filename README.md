@@ -26,11 +26,10 @@ I also like sushi 🍣
 - Firebase
 
 What I want to learn this year:
+- AI Eng'g
+- Python (FastAPI)
 - Swift
 - C#
-- Python (FastAPI)
-- Next.JS
-- Electron.JS
 - Java
 
 <i>Most of my work files are private. 🥷</i>
